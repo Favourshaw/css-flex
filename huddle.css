@@ -95,6 +95,11 @@ header {
     border-radius: 50px;
     font-family: 'Open Sans', sans-serif;
   }
+
+.button:hover {
+    background-color: white;
+    color: hsl(322, 100%, 66%);
+  }
   .button1 {
     background-color: white;
     border: none;
@@ -107,6 +112,11 @@ header {
     border-radius: 50px;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
+  }
+
+ .button1:hover {
+    background-color: hsl(192, 100%, 9%);
+    color: white
   }
 
   /*button end*/
